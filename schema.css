@@ -4,6 +4,7 @@
 
 nav{
     margin-top: 2.5rem;
+    font-weight: 500;
 }
 
 .logo{
@@ -19,3 +20,86 @@ nav{
    margin-top: 2.5rem;
 }
 
+.heading{
+    font-size: 5rem;
+    align-items: center;
+    margin-left: 15rem;
+    margin-top: 3rem;
+    font-weight: 600;
+}
+
+.text1{
+    margin-top: 3rem;
+    font-weight: 450;
+    align-items: center;
+    margin-left: 28rem;
+}
+
+
+.text2{
+    margin-top: 0.5rem;
+    font-weight: 450;
+    align-items: center;
+    margin-left: 24rem;
+}
+
+
+.text3{
+    margin-top: 0.5rem;
+    font-weight: 450;
+    align-items: center;
+    margin-left: 38rem;
+}
+
+.Atext{
+    margin-left: 34rem;
+    margin-top: 2.5rem;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.btn{
+    margin-left: 37rem;
+    margin-top: 2.5rem;
+    background-color: #3F51B5;
+    width: 210px;
+    text-align: center;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    border-radius: 28px;
+}
+
+.container2{
+    background-color: #FCF7F7;
+}
+
+.t1{
+    margin-top: 3rem;
+  margin-left: 28rem;
+  font-weight: 450;
+}
+
+.t2{
+    margin-left: 28rem;
+    font-weight: 450;
+  }
+
+  .t3{
+    margin-left: 28rem;
+    font-weight: 450;
+  }
+
+  .t4{
+    margin-left: 28rem;
+    font-weight: 450;
+  }
+
+  .t5{
+    margin-left: 28rem;
+    font-weight: 450;
+  }
+  .t6{
+    margin-left: 28rem;
+    font-weight: 450;
+  }
