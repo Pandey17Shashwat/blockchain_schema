@@ -1,0 +1,21 @@
+* {
+    background-color: #DDE7FF;
+}
+
+nav{
+    margin-top: 2.5rem;
+}
+
+.logo{
+    width: 8rem;
+    height: auto;
+    float: right;
+    margin-left: 48rem;
+}
+
+
+.logo2{
+   margin-left: 35vw;
+   margin-top: 2.5rem;
+}
+
